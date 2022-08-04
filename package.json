@@ -1,0 +1,20 @@
+{
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "description": "for stuff",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "haseeb",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
